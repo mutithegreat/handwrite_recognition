@@ -2,11 +2,11 @@
 import io
 from google.cloud import vision
 import os
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/home/yets/Documents/handwrite_recognition/versatile-brace-473413-r9-42c643e702d2.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "YOUR GOOGLE APPLICATION CREDENTIALS .json FILE"
 
 # Google Cloud Vision istemcisi başlat
 client = vision.ImageAnnotatorClient()
-credantials_path = "/home/yets/Documents/handwrite_recognition/versatile-brace-473413-r9-42c643e702d2.json"
+credantials_path = "YOUR GOOGLE APPLICATION CREDENTIALS .json FILE"
 
 
 image_path = '/home/yets/Documents/handwrite_recognition/neka_1.jpeg'
@@ -21,3 +21,4 @@ texts = response.text_annotations
 
 # İlk metni yazdır (en kapsamlı metin)
 print("Tanınan metin: ", texts[0].description)
+
