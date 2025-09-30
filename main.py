@@ -9,7 +9,7 @@ client = vision.ImageAnnotatorClient()
 credantials_path = "YOUR GOOGLE APPLICATION CREDENTIALS .json FILE"
 
 
-image_path = '/home/yets/Documents/handwrite_recognition/neka_1.jpeg'
+image_path = '/data/neka_1.jpeg'
 with io.open(image_path, 'rb') as image_file:
     content = image_file.read()
 
@@ -21,4 +21,5 @@ texts = response.text_annotations
 
 # İlk metni yazdır (en kapsamlı metin)
 print("Tanınan metin: ", texts[0].description)
+
 
