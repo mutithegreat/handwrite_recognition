@@ -1,0 +1,6 @@
+Python 3.8+
+streamlit
+google-cloud-vision
+pandas
+pillow
+opencv-python
