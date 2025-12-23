@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "versatile-brace-473413-r9",
+  "private_key_id": "42c643e702d20ac9531a6e601da17034b33b787e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrNGSUF9aVD0Tv\n4j0iEMFdbwp8HiOELJj0PiEsSVTyB5jrlb/nEcPf/dnNbLjBT11up0Wn/lapF9yy\nbSTvvfrDtp/sHCJX5XCq/DqV0zI5KKkcZT8FM8H6OOn+wfE++WJRZ3cv0/Fny+oy\nhYgqiAJnD3wS5V2/M5gBPTcf6+XmxpQmztwVPx8joRsoRn4cV11n7fjTPPMh841T\nCT3ev7zWxGRwgzbkk0oQxqjnkRgXeUrc9DlfIUEmj2Re3Q5ghw5PjtwH4vdPGXVm\nFh8TDPSnbJz/h0H42TipkOO6jOXmxMNIRxpG7noGNIE698vUWzmkC/0b9xeCu3gX\nqzb3dMnXAgMBAAECggEAJSW9HRT/DmC9yH8CXL3d9vP9BmlTs34pwfUpJX7T26Ai\nYhugA/cq1RMziwsoG2mpEDVjO8xH6XCwBlcASLSkEIszr/t6yC+UfsUzwQaOQzC7\nYNnnDq3oTO7Edu6F9fAOkTMt/Uazfp4UNtoabYANZWdKuJ7j9HSxarNpnpeEzsm0\na8b6NbPhKXYPuPDgUZaEKqKwZEpO++P6M7LE/0Iu9Y6yRo2qppKDsovJYIfces1C\nGPGbZjDsFnId3IDvJkrNDJW+bXNuI3+S7h3CvQmDbgIRV/IMdw4ya/6elXjdK1/7\nLEQXq6Lcb6ubeYDlzHjh1vtm2C0JEvKnGO3gyrznQQKBgQDlDiiFWvmIrtjmgNqX\nco8NI3NZR0bkhj3uVnAen8zWy60BRpI/dh/pHtWv0c9wCO0Zy7hXcg4qowEbXPWF\n9FkbLuVOmAIMQsASW0/uJUdhvsN0xS4Gaoia2nNC095MaF0Yyy816/QrL2psx36V\nzyMxwWxd/JWg7vk5VoerqiwsXwKBgQC/WBo9ujv1ajXbhaMu2Jxa54h3ht8rqUQq\naAV8iTUJej82bB7jVgSVo2Lla5JTrweH340tU1MjDiNFXBWN6Mu8/HZeycmFmopi\nAOVtulnonF+3o1oW4d8+f6sn/hh7B1mBgoHkytZx71gsaStOshHSvk64VYkMADZv\nOb15JNrViQKBgQCbI2/GgsuoC+TUmklzch/5oh0qRuB5P4MKvnjKBSnUAbd3ubis\nSvFqD3xjzRNWqnUMl7KPZ6y4rBa/1cJlrA3+H1EoXkRk0YEN7dLBVXZ3eaEgobx+\nlAFaAMM4bA+QaM9FT7j2KI4EAeVvL99I0DbiKEOhlMYzbihW8YiKeIPauQKBgCoN\n7xaKDAuQYG3zHT56lULViITcu8gY18aKPkp0zZdbqvEHKnLEwRUyZ9YMooiJ+5m9\nZIYFvkwCG3ZvGr2p4L2Ur1998jDPGoMXt1U6k/AwDkmKOY617h8KaE/N5QuFPgLc\n8Dec7Sz1ceew5bfSI2CyOxMAmbJtiYlAo4gwtXghAoGAYHg8kQRHq4e27vYr8hpd\nY6TVO9XuFMq5uZjMYAL99KTOWbFrJVZQW15UtuTOruqqIWI8ollXEsUCsCQdxzK1\nNv+pEal7sbYA1LMokc62ix3A3ZADkrjkhs+cytfphk5WrkqYXLbJQdcaZKtkqEou\nUDQzevpyU+NxWTpMOrj9/rY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "neka-853@versatile-brace-473413-r9.iam.gserviceaccount.com",
+  "client_id": "116389036696085970468",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/neka-853%40versatile-brace-473413-r9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
