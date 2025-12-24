@@ -4,15 +4,15 @@ import os
 from google.cloud import vision
 from pathlib import Path
 
-base_path = Path("/home/muti/projects/neka")
+base_path = Path().cwd()
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = str(base_path / "versatile-brace-473413-r9-42c643e702d2.json")
-dir_data = base_path / "data"
+dir_data = Path("data")
 client = vision.ImageAnnotatorClient()
 credantials_path = base_path / "versatile-brace-473413-r9-42c643e702d2.json"
 file_name = "captured_image.jpeg"
 
 def get_image(dir_data,file_name):
-    file_path = dir_data / file_name
+    file_path = Path(dir_data) / file_name
     with io.open(file_path, 'rb') as image_file:
         content = image_file.read()
     return content
